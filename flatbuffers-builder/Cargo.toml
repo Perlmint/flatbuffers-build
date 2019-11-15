@@ -1,0 +1,12 @@
+[package]
+name = "flatbuffers_builder"
+version = "0.1.0"
+authors = ["Gyusun Yeom <omniavinco@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+flatbuffers-run = { path = "../flatbuffers-run" }
+flatbuffers = "0.6.0"
+
+[build-dependencies]
+flatbuffers-run = { path = "../flatbuffers-run" }

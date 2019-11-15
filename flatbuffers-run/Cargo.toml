@@ -1,0 +1,8 @@
+[package]
+name = "flatbuffers-run"
+version = "0.1.0"
+authors = ["Gyusun Yeom <omniavinco@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bitflags = "1.2.1"
